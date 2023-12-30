@@ -1,0 +1,6 @@
+*.safetensors
+*.pth
+*.ckpt
+*.pth
+*.bin
+*__pycache__

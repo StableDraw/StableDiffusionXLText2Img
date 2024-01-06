@@ -1,6 +1,6 @@
 [submodule "sgm"]
 	path = sgm
-	url = https://github.com/Robolightning/sgm
+	url = https://github.com/StableDraw/sgm
 [submodule "stablediffusionxl"]
 	path = stablediffusionxl
-	url = https://github.com/Robolightning/stablediffusionxl
+	url = https://github.com/StableDraw/stablediffusionxl
